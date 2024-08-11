@@ -1,6 +1,6 @@
 {
   "name": "murr-utils-test",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "See if I can bundle together better",
   "type": "module",
   "main": "./dist/murr-utils-test.umd.cjs",
